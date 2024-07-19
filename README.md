@@ -13,7 +13,7 @@ from 33 languages, validated by volunteers.
 
 ![image](https://github.com/user-attachments/assets/23f0f896-6a71-4b4a-9b10-a20a48339fba)
 
-![image](https://github.com/user-attachments/assets/78e065ac-4016-4ec2-ab5e-b842cf1bd740)
+![image](https://github.com/user-attachments/assets/8915fe0f-7aea-41ff-bb92-7d15dc746299)
 
 # Dialect Recognition
 
